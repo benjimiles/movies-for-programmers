@@ -8,5 +8,12 @@ Trailer: (https://www.youtube.com/watch?v=-CA95Bzpy7s)
 
 2. Hackers(1995) | Thriller/Crime | 1h 47m
    - Stars: Jonny Lee Miller, Angelina Jolie, Jesse Bradford
-<img src="https://m.media-amazon.com/images/M/MV5BNmExMTkyYjItZTg0YS00NWYzLTkwMjItZWJiOWQ2M2ZkYjE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="Blackhat Poster" width="500">
+<img src="https://m.media-amazon.com/images/M/MV5BNmExMTkyYjItZTg0YS00NWYzLTkwMjItZWJiOWQ2M2ZkYjE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="Hackers Poster" width="500">
 Trailer: (https://www.youtube.com/watch?v=Rn2cf_wJ4f4)
+
+---------------------
+
+3. WarGames(1983) | Thriller/Sci-fi | 1h 54m
+   - Stars: Matthew Broderick, Ally Sheedy, John Wood
+<img src="https://m.media-amazon.com/images/S/pv-target-images/64437bdb258bf75f7bb5fef868fd6f9fdb994b12df7a6d1e23dd6822bf8111d6.jpg" alt="WarGames Poster" width="500">
+Trailer: (https://www.youtube.com/watch?v=TQUsLAAZuhU)
