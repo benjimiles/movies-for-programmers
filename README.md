@@ -17,3 +17,11 @@ Trailer: (https://www.youtube.com/watch?v=Rn2cf_wJ4f4)
    - Stars: Matthew Broderick, Ally Sheedy, John Wood
 <img src="https://m.media-amazon.com/images/S/pv-target-images/64437bdb258bf75f7bb5fef868fd6f9fdb994b12df7a6d1e23dd6822bf8111d6.jpg" alt="WarGames Poster" width="500">
 Trailer: (https://www.youtube.com/watch?v=TQUsLAAZuhU)
+
+---------------------
+
+4. Swordfish(2001) | Action/Thriller | 1h 39m
+   - Stars: John Travolta, Hugh Jackman, Halle Berry
+<img src="https://m.media-amazon.com/images/M/MV5BNzk5ZmQxMWYtM2QyNi00MTY3LTlmNjItYjUwODY3Y2YwOTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg" alt="WarGames Poster" width="500">
+Trailer: (https://www.youtube.com/watch?v=GjFUtW5W2AA)
+
